@@ -32,3 +32,4 @@ Starts the Electron Desktop App
 
 The working app should look as follows.
 
+![Screenshot](screenshot.png)
